@@ -165,7 +165,7 @@ h3 { font-size: 1.3rem; }
   pointer-events: none;
 }
 
-.hero__inner { position: relative; max-width: 700px; margin: 0 auto; }
+.hero > .div { position: relative; max-width: 700px; margin: 0 auto; }
 
 .hero h1 {
   color: var(--cream);

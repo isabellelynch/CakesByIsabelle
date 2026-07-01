@@ -12,7 +12,7 @@
 <?php require_once 'include/nav.php'; ?>
 <!-- Hero -->
 <section class="hero">
-  <div class="hero__inner">
+  <div>
     <h1>Cakes made with <em>real love.</em></h1>
     <p>Handmade to order - birthdays, weddings and every occasion in between.</p>
     <div class="btn-row">
@@ -82,7 +82,7 @@
   <div class="container">
     <span class="eyebrow">How it works</span>
     <h2 style="text-align:center; margin-bottom:3rem">From order to your door</h2>
-    
+
     <div class="steps">
       <div>
         <div>1</div>
